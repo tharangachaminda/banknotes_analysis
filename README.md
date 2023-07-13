@@ -1,3 +1,4 @@
+![Logo](https://github.com/tharangachaminda/banknotes_analysis/blob/main/banknotes.png)
 
 # Banknotes Authentication
 
@@ -55,6 +56,3 @@ I have used [*pyforest*](https://pypi.org/project/pyforest/) library bundle for 
 
 1. Hyperparameter tuning using *GridSearchCV()*
 2. Foundation Methodology for Machine Learning Project
-
-
-![Logo](https://github.com/tharangachaminda/banknotes_analysis/blob/main/banknotes.png)
