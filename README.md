@@ -56,3 +56,6 @@ I have used [*pyforest*](https://pypi.org/project/pyforest/) library bundle for 
 
 1. Hyperparameter tuning using *GridSearchCV()*
 2. Foundation Methodology for Machine Learning Project
+
+## Demo
+[Try it on my profile](http://ec2-34-215-236-233.us-west-2.compute.amazonaws.com/banknotes_authentication)
