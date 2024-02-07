@@ -27,7 +27,7 @@ For this project stackholders possibly be
 - or any regulatory bodies
 
 ### Data Sources
-This project is based on [Bank Notes Authentication UCI dataset]('https://archive.ics.uci.edu/dataset/267/banknote+authentication') dataset. I'm using the [Kaggle's version]('https://www.kaggle.com/datasets/ritesaluja/bank-note-authentication-uci-data') of it.
+This project is based on [Bank Notes Authentication UCI dataset](https://archive.ics.uci.edu/dataset/267/banknote+authentication) dataset. I'm using the [Kaggle's version](https://www.kaggle.com/datasets/ritesaluja/bank-note-authentication-uci-data) of it.
 
 ### Technology and Tools
 I will be using 
