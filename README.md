@@ -58,4 +58,4 @@ I have used [*pyforest*](https://pypi.org/project/pyforest/) library bundle for 
 2. Foundation Methodology for Machine Learning Project
 
 ## Demo
-[Try it on my profile](http://ec2-34-215-236-233.us-west-2.compute.amazonaws.com/banknotes_authentication)
+[Try it on my profile](http://ec2-52-43-46-199.us-west-2.compute.amazonaws.com//banknotes_authentication)
